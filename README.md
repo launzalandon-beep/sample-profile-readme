@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Landon
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am in class 005, my major is cybersecurity and I enjoy watching football._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
