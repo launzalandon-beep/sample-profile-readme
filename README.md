@@ -1,6 +1,7 @@
 ## 👏 Hi, I'm Landon
 ##  About Me
-_I am in class 005, my major is cybersecurity and I enjoy watching football._
+_I am a Cybersecurity major attending UTSA and in my first year and graduate in 2030. I am currently taking the Unlocking Cyber class and i
+m in class 005. When I have nothing to do, I enjoy working out, watching football, or playing videogames with my friends._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
